@@ -1,0 +1,4 @@
+﻿  basic.cpp
+E:\fallingsappy\Data\Programming\Udemy\C++\basic\basic.cpp(3,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\fallingsappy\Data\Programming\Udemy\C++\basic\basic.cpp(15,15): warning C4129: |: неизвестная escape-последовательность
+  basic.vcxproj -> E:\fallingsappy\Data\Programming\Udemy\C++\basic\Debug\basic.exe
